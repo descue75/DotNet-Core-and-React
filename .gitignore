@@ -416,3 +416,11 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+.fake
+
+# Database
+API/reactivities.db*
+
+# Misc
+API/appsettings.json
